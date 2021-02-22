@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">GeekBrains_Android1</string>
-    <string name="login">Login:</string>
-    <string name="password">Password:</string>
-    <string name="Male">Male</string>
-    <string name="Female">Female</string>
-    <string name="agreement">I agree to the use of my personal data</string>
-    <string name="noAgreement">"I don't agree to the use of my personal data"</string>
-</resources>
